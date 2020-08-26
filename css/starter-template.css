@@ -1,0 +1,30 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.opisanie {
+  position: relative;
+  right: 350px;
+
+}
+
+.name {
+  position: relative;
+  right: 350px;
+}
+
+.stop {
+  position: relative;
+  color: #8f0000;
+  right: 350px;
+}
+
+.dowlount {
+  position: relative;
+  top: 90px;
+  right: 350px;
+}
